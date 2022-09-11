@@ -16,7 +16,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/ItsCyberAli/Phishing-Templates/blob/main/READMEGIF.gif)
 
 ## Key Features
 
@@ -35,45 +35,33 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need VSCode and LiveServer Extension From VSCode installed on your computer.
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+# Download this repository
+$ From The Upper Right Hand Corner Where It Says Code, Click It And Download The ZIP File
 
-# Go into the repository
-$ cd electron-markdownify
+# Go To VSCode & Unzip The Download
+$ Inside You Will See Phishing-Templates-Main
 
-# Install dependencies
-$ npm install
+# This Step Is Very Important
+$ When Inside Of Vscode It Is Important To Select The NETFLIX, HULU etc Folder And Not The Phishing-Templates-Main
+Or Else The CSS When You Launch The Live Server Wont Show The Complete Page
 
-# Run the app
-$ npm start
+# Right Click On The .HTML Files And Click Live Server
+$ Bam The Phishing Page Is There And Use It At Your Own Risk And Modify It To Your Liking As Well As Add Logic
 ```
-
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can download the code from the top right, it will give you all the code needed in a ZIP file.
 
-## Emailware
+## Reach Me Here
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## Credits
-
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+If you want to discuss any topics or need some help I am very active and can get back to you within 24 hours or less 
+And Setup A Date & Time To Help With Whatever It Is You Need, I Am Also Open To Collab On Projects I Feel Are Worth My Time
+And Of My Interest As Well
 
 ## Related
 
@@ -102,5 +90,5 @@ MIT
 
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> Twitter [@ItsCyberAli](https://twitter.com/ItsCyberAli)
 
