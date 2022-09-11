@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  ItsCyberAli's Phishing Templates
+  🎣 ItsCyberAli's Phishing Templates 🎣
   <br>
 </h1>
 
