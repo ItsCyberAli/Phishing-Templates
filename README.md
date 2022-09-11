@@ -11,9 +11,8 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#reach-me-here">Reach Me Here</a> •
+  <a href="#support">Support</a>
 </p>
 
 ![screenshot](https://github.com/ItsCyberAli/Phishing-Templates/blob/main/READMEGIF.gif)
@@ -21,9 +20,9 @@
 ## Key Features
 
 * Very Easy & Versatile Frontend Code
-  - Instantly click live server on the index.html file inside and the web template will pop up.
-* No logic Just Frontend Design
-  - I did not add the logic because I want to allow room for your own custom code to be implemented to further your operation.
+  - Instantly click live server on the index.html file inside and the web template will pop up
+* No logic Just Frontend Design (This Will & Can Change In The Future)
+  - I did not add the logic because I want to allow room for your own custom code to be implemented to further your operation
 * Easy To Read Code 
 * Commented Lines To Show You Where Everything Is
 * Mobile Responsive As Well
@@ -31,7 +30,7 @@
 * Supports Multiple Browsers
 * Netlify Upload Or To Your Own Custom Domain
 * Most Recent Designs Or Well Known Ones
-* Custom Coded It All From Scratch, I Did Not Use Clone Generators etc.
+* Custom Coded It All From Scratch, I Did Not Use Clone Generators etc
 
 ## How To Use
 
@@ -61,34 +60,19 @@ You can download the code from the top right, it will give you all the code need
 
 If you want to discuss any topics or need some help I am very active and can get back to you within 24 hours or less 
 And Setup A Date & Time To Help With Whatever It Is You Need, I Am Also Open To Collab On Projects I Feel Are Worth My Time
-And Of My Interest As Well
-
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+And Of My Interest As Well!!
+* Twitter [@ItsCyberAli](https://twitter.com/ItsCyberAli)
+* GitHub [@ItsCyberAli](https://github.com/ItsCyberAli)
 
 ## Support
 
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<p>To Support Me You Can Buy Me A Coffee</p> 
 
-<p>Or</p> 
+<a href="https://www.buymeacoffee.com/ItsCyberAli" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+<p>Or Just Follow Me On Twitter As Well</p> 
+
+<a href="https://twitter.com/ItsCyberAli">
+	<img src="https://imgs.search.brave.com/f4D618R1h5bFKTM3AxujnMLyA5IZhP8iWVpc2VnHU68/rs:fit:1200:628:1/g:ce/aHR0cHM6Ly93d3cu/MTJjYXJhY3Rlcmlz/dGljYXMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE3LzEy/L2NhcmFjdGVyJUMz/JUFEc3RpY2FzLWRl/LXR3aXR0ZXIuanBn" width="160">
 </a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
-
-## License
-
-MIT
-
----
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@ItsCyberAli](https://twitter.com/ItsCyberAli)
 
